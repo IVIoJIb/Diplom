@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Diploma\\PharmExpertAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|d:\\study\\diploma\\pharmexpertapi\\pharmexpertapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF70BEC-61D9-4556-8B81-2F4A4353957E}|PharmExpertAPI\\PharmExpertAPI.csproj|solutionrelative:pharmexpertapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:44:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:29:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Models\\UserDto.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\UserDto.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:28:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Models\\User.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\User.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:25:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:31:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Models\\Product.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:30:02.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PharmExpertAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Study\\Diploma\\PharmExpertAPI\\PharmExpertAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PharmExpertAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:04:55.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

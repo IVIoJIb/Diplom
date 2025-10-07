@@ -1,0 +1,6 @@
+@PharmExpertAPI_HostAddress = http://localhost:5124
+
+GET {{PharmExpertAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

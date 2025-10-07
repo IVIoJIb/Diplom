@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fErUwaXcaVgOi+S8zXtetT2i081nuXBcQn89we4pzvQ=",
+  "Source": "PharmExpertAPI",
+  "BasePath": "_content/PharmExpertAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
